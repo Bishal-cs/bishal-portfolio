@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "\"this is the portfollio\"",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bishal",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "node": "^18.20.8",
+    "tailwindcss": "^4.1.0"
+  }
+}
