@@ -4,8 +4,7 @@
   "description": "\"this is the portfollio\"",
   "main": "./src/index.js",
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
   },
   "author": "Bishal",
   "license": "ISC",
