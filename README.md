@@ -17,6 +17,6 @@ In this portfolio, you will find details of my completed projects, including web
 Feel free to explore and connect with me if you'd like to collaborate or learn more about my work.
 
 ## Contact:
-- Email: [bishaldas1k@gmail.com ]
+- Email: [bishaldas1k@gmail.com]
 - GitHub: [https://github.com/Bishal-cs](https://github.com/Bishal-cs)
-- LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/bishal-das-ba5134308/)]
+- LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/bishal-das-ba5134308/)
