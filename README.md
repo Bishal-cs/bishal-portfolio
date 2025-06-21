@@ -6,7 +6,7 @@ Welcome to my personal portfolio! I'm Bishal Das, a B.Tech student in Computer S
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **GitHub Pages** (for hosting)
+- **GitHub Pages**
 
 ## About Me:
 I am passionate about coding and constantly learning new technologies. I specialize in web development and enjoy building interactive, responsive websites. This portfolio is a reflection of my journey as a developer.
